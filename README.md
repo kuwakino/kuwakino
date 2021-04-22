@@ -7,9 +7,8 @@ _Let's team up and build software._
 <p align="left">
 
 <a href="https://www.linkedin.com/in/eduardokuwakino/"><img src="https://img.shields.io/badge/-eduardokuwakino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
-[![Gmail Badge](https://img.shields.io/badge/-kuwakino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kuwakino@gmail.com)](mailto:kuwakino@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kuwakino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kuwakino@gmail.com)] (mailto:kuwakino@gmail.com)
 </p>
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kuwakino&repo=kuwakino&countColorcountColor)
 
 ## Motivations 🔥
 <img src="https://img.shields.io/badge/-✨Design Solutions | Governance & Organizational Structures | Business Strategies | Continuous Improvement-4B5666?&style=flat-square"/>
@@ -32,3 +31,5 @@ _Let's team up and build software._
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=kuwakino&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kuwakino&hide_border=true)
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kuwakino&repo=kuwakino&countColorcountColor)
