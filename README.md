@@ -2,14 +2,19 @@
 # 👋 Welcome
 My name is Eduardo Norio Kuwakino. I work as a Software Engineer at Panya Studios.
 
+_Let's team up and build software._ 
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/eduardokuwakino/"><img src="https://img.shields.io/badge/-eduardokuwakino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
+[![Gmail Badge](https://img.shields.io/badge/-kuwakino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kuwakino@gmail.com)](mailto:kuwakino@gmail.com)
+</p>
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kuwakino&repo=kuwakino&countColorcountColor)
 
 ## Motivations 🔥
 <img src="https://img.shields.io/badge/-✨Design Solutions | Governance & Organizational Structures | Business Strategies | Continuous Improvement-4B5666?&style=flat-square"/>
 
 <img src="https://img.shields.io/badge/-Modern Agile | Scrum | Lean | XP | Management 3.0-008080?&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNS4wLjIsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4IiB2aWV3Qm94PSI1MjMuMTU4IDUyMy4xNTggNjQgNjQiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgNTIzLjE1OCA1MjMuMTU4IDY0IDY0IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxjaXJjbGUgZmlsbD0iIzRCNTY2NiIgY3g9IjU1NS4xNTgiIGN5PSI1NTUuMTU4IiByPSIzMiIvPg0KCTxnPg0KCQk8Zz4NCgkJCTxwYXRoIGZpbGw9IiNGQkQzNUMiIGQ9Ik01MzUuMDg2LDUzNS4wODZjMTEuMDk1LTExLjA5NSwyOS4wNS0xMS4wOTUsNDAuMTQ1LDBsLTIwLjA3MiwyMC4wNzJMNTM1LjA4Niw1MzUuMDg2eiIvPg0KCQk8L2c+DQoJCTxnPg0KCQkJPHBhdGggZmlsbD0iI0E0RDk3MCIgZD0iTTU3NS4yMyw1MzUuMDg2YzExLjA5NSwxMS4wOTUsMTEuMDk1LDI5LjA1LDAsNDAuMTQ1bC0yMC4wNzItMjAuMDcyTDU3NS4yMyw1MzUuMDg2eiIvPg0KCQk8L2c+DQoJCTxnPg0KCQkJPHBhdGggZmlsbD0iI0ExQkRFMyIgZD0iTTU3NS4yMyw1NzUuMjNjLTExLjA5NSwxMS4wOTUtMjkuMDUsMTEuMDk1LTQwLjE0NSwwbDIwLjA3Mi0yMC4wNzJMNTc1LjIzLDU3NS4yM3oiLz4NCgkJPC9nPg0KCQk8Zz4NCgkJCTxwYXRoIGZpbGw9IiNGQTc5NzciIGQ9Ik01MzUuMDg2LDU3NS4yM2MtMTEuMDk1LTExLjA5NS0xMS4wOTUtMjkuMDUsMC00MC4xNDVsMjAuMDcyLDIwLjA3Mkw1MzUuMDg2LDU3NS4yM3oiLz4NCgkJPC9nPg0KCTwvZz4NCgk8Y2lyY2xlIGZpbGw9IiM0QjU2NjYiIGN4PSI1NTUuMTU4IiBjeT0iNTU1LjE1OCIgcj0iMTMuMTk5Ii8+DQo8L2c+DQo8L3N2Zz4NCg=="/>
-
-_Let's team up and build software._ 
 
 
 ## Languages & Tools 🛠  
@@ -27,11 +32,3 @@ _Let's team up and build software._
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=kuwakino&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kuwakino&hide_border=true)
-
-## Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/eduardokuwakino/"><img src="https://img.shields.io/badge/-eduardokuwakino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
