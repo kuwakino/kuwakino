@@ -7,7 +7,7 @@ _Let's team up and build software._
 <p align="left">
 
 <a href="https://www.linkedin.com/in/eduardokuwakino/"><img src="https://img.shields.io/badge/-eduardokuwakino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> 
-[![Gmail Badge](https://img.shields.io/badge/-kuwakino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kuwakino@gmail.com)] (mailto:kuwakino@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kuwakino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kuwakino@gmail.com)](mailto:kuwakino@gmail.com)
 </p>
 
 ## Motivations 🔥
