@@ -1,6 +1,6 @@
 
-# 👋 Welcome
-My name is Eduardo Norio Kuwakino. I work as a Software Engineer at Panya Studios.
+# Eduardo Norio Kuwakino. 
+I work as a Software Engineer at everis.
 
 _Let's team up and build software._ 
 
