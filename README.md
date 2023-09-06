@@ -1,7 +1,5 @@
 
 # Eduardo Norio Kuwakino. 
-I work as a Software Engineer at everis.
-
 _Let's team up and build software._ 
 
 <p align="left">
